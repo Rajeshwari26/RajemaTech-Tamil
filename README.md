@@ -4,5 +4,5 @@
 
 ## Overview
 
-This repository contains "Llama 3.2 Multimodal  for Text and image data setimental analysis"
+This repository contains how to find sentiment on text and image data using Llama 3.2 Multimodal"
 
